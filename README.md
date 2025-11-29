@@ -5,40 +5,39 @@
 **Mode:** Individual Work
 
 ## Game Title
-**Comic Rock–Paper–Scissors Game**
+**Rock–Paper–Scissors**
 
-A browser-based mini arcade game where the player competes against the computer in a classic Rock–Paper–Scissors match. The game features animated hand graphics, countdown effects, sound effects, scoring, and a final results screen.
+A simple, interactive, and browser-based mini-arcade game where the player chooses Rock, Paper, or Scissors and competes against the computer. The game automatically determines the winner using the classic RPS rules and displays the result along with the updated score.
+This project was created as part of the DC 101 – Web Development Project.
 
 ## Game Description
-This project is a fully interactive Rock–Paper–Scissors browser game designed with a colorful comic-inspired theme. The game allows players to choose the number of rounds before starting, giving flexibility for short or extended matches. Each round begins with a countdown animation followed by lively shake effects on both player and computer hands to simulate anticipation before revealing the choices.
 
-The game features smooth transitions between panels, including the title screen, round selection, gameplay interface, and final results screen. Sound effects enhance the experience—such as button clicks, countdown tones, win/lose sounds, and a short confetti celebration when the player wins the overall match. The scoring system updates every round, and a pause menu lets players resume, restart, or return to the home screen at any time.
+This Rock–Paper–Scissors game is designed to be lightweight, responsive, and easy to play. The UI is simple and visually clean, allowing players to quickly engage with the game. When the player selects a move, the computer generates a random choice, and the game determines whether the result is a Win, Lose, or Tie.
+The game also includes real-time interaction, updated score tracking, and smooth gameplay for an enjoyable experience.
 
-With its bright visuals, responsive layout, modular JavaScript logic, and playful animations, the game provides a simple yet engaging arcade-style experience that showcases essential web development concepts.
-
-## 🛠️ Technologies Used
+## Technologies Used
+This project was built using pure front-end technologies:
 - **HTML** – Structure of the game
 - **CSS3** – Styling, layout, animations, and comic effects
 - **JavaScript** – Game logic, scoring, countdown, event handling
 - **Git & GitHub** – Version control and project hosting
 
 
+## How to Run the Game
+# Option 1: Play Online (GitHub Pages)
 
-## Instructions to Run the Game
-### **Option 1 — Run Locally**
-1. Download or clone the project folder
-2. Make sure the folder contains:
-   - `index.html`
-   - `style.css`
-   - `script.js`
-   - `assets/` (images, sounds, icons)
-3. Open **index.html** in any browser (Chrome recommended)
+You can play the game anytime through the live link below:
+🔗https://carenjavier328-hue.github.io/DC101_Game_JavierCaren/
 
-### **Option 2 — GitHub Pages (If you enabled deployment)**
-1. Go to **Settings → Pages**
-2. Set the branch to **main**
-3. Save
-4. Visit the GitHub Pages link generated
+# Option 2: Run Locally on Your Computer
+
+## Download or clone the repository:
+git clone https://github.com/carenjavier328-hue/DC101_Game_JavierCaren.git
+
+Open the project folder.
+Double-click index.html to open it in your browser.
+
+Start playing!
 
 ## Screenshots
 
